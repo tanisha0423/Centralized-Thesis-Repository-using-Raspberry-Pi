@@ -13,6 +13,7 @@ Our goal was to build a **low-cost, portable, and secure digital thesis reposito
 ## Key Features
 
 - Browse and access thesis PDFs
+- Secure login and authentication
 - Search and sort by title, author, publication date, or file size
 - Responsive web interface built with HTML, CSS, and JavaScript
 - Flask-based backend, hosted on Apache using WSGI on Raspberry Pi
